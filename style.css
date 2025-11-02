@@ -1,0 +1,115 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    color: #461035;
+    
+}
+h2{
+    text-align: center;
+    margin: 20px;
+    font-size: larger;
+}
+.login-container{
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+#username, #password{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(244, 249, 250);
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+button{
+    width: 45%;
+    padding: 10px;
+    background-color: #d0e7e3;
+    color: #060606;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 5px;
+}
+button:hover{
+    background-color: #b0d4d0;
+}
+.home-container{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(241, 219, 230);
+    width: 66%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    align-items: center;
+}
+.home-container h2{
+    color: rgb(244, 249, 250);
+    background-color: #8e0382;
+    font-size: larger;
+    padding: 10px;
+    margin: auto;
+}
+#quiz-section{
+    margin:auto;
+    padding: 20px;
+}
+.question-block {
+  border: 2px solid #ccc;
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.option-label {
+  display: block;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.option-label.correct {
+  background-color: #d4edda;
+  border-color: #28a745;
+  color: #155724;
+}
+
+.option-label.incorrect {
+  background-color: #f8d7da;
+  border-color: #dc3545;
+  color: #721c24;
+}
+
+.feedback {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.submit {
+    background-color: #8e0382;
+    color: white;
+    font-size: large;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    width: 80%;
+}
