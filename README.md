@@ -42,6 +42,4 @@ Inspired by the simplicity and clarity of Google Forms.
 - A timer tracks how long the user takes.
 
 OUTPUT SCREENSHOTS:
-![Login Page]("C:\Users\WELCOME\OneDrive\Pictures\Screenshots\LOGIN PAGE.png")
-![Quiz Page]("C:\Users\WELCOME\OneDrive\Pictures\Screenshots\QUIZ.png")
-![Results Page]("C:\Users\WELCOME\OneDrive\Pictures\Screenshots\RESULTS.png")
+<img width="524" height="424" alt="Image" src="https://github.com/user-attachments/assets/ce54cc21-d352-49ac-8b80-e8ddeef4f631" />
