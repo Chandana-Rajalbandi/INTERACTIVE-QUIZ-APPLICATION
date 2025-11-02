@@ -43,3 +43,7 @@ Inspired by the simplicity and clarity of Google Forms.
 
 OUTPUT SCREENSHOTS:
 <img width="524" height="424" alt="Image" src="https://github.com/user-attachments/assets/ce54cc21-d352-49ac-8b80-e8ddeef4f631" />
+
+<img width="898" height="652" alt="Image" src="https://github.com/user-attachments/assets/c23c748b-fec2-43f7-9b7d-ea9982cbc270" />
+
+<img width="524" height="424" alt="Image" src="https://github.com/user-attachments/assets/ce54cc21-d352-49ac-8b80-e8ddeef4f631" />
