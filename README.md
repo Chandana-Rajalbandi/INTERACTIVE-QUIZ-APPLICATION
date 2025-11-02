@@ -27,7 +27,6 @@ Inspired by the simplicity and clarity of Google Forms.
 - 📋 **Quiz Format**: All 10 questions displayed at once, each with multiple-choice options.
 - ✅ **Instant Feedback**: After submission, correct answers are highlighted in green, incorrect ones in red.
 - ⏱️ **Timer**: Tracks total time taken to complete the quiz.
-- 🔁 **Retake Option**: Users can reset and retake the quiz with one click.
 - 📊 **Score Display**: Final score and time shown after submission.
 
 
@@ -41,5 +40,8 @@ Inspired by the simplicity and clarity of Google Forms.
 - All questions are displayed with styled options.
 - After clicking "Submit", feedback and score are shown.
 - A timer tracks how long the user takes.
-- A "Retake Quiz" button reloads the app for a fresh attempt.
 
+OUTPUT SCREENSHOTS:
+![Login Page]("C:\Users\WELCOME\OneDrive\Pictures\Screenshots\LOGIN PAGE.png")
+![Quiz Page]("C:\Users\WELCOME\OneDrive\Pictures\Screenshots\QUIZ.png")
+![Results Page]("C:\Users\WELCOME\OneDrive\Pictures\Screenshots\RESULTS.png")
